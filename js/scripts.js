@@ -6,6 +6,7 @@ var triangle = function(sideA, sideB, sideC) {
   alert ("Not a triangle");
 };
 
+var triangleType = document.getElementByClassName("tracker[0].id")
 var triangleType = function(sideA ,sideB, sideC) {
   if (sideA===sideB===sideC);
   return "Equilateral triangle";
@@ -18,3 +19,4 @@ var triangleType = function(sideA ,sideB, sideC) {
 }  else if (sideB===sideC) {
    return "Isosceles triangle";
    alert "Isosceles triangle";
+};
