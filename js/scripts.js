@@ -1,3 +1,9 @@
+function getResult (){
+var sideA = parseFloat(prompt("sideA"));
+var sideB = parseFloat(prompt("sideB"));
+var sideC = parseFloat(prompt("sideC"));
+}
+
 var triangle = function(sideA, sideB, sideC) {
   if ( Triangle(sideA, sideB, sideC));
    return triangleType(sideA, sideB, sideC);
