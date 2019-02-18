@@ -8,5 +8,13 @@ var triangle = function(sideA, sideB, sideC) {
 
 var triangleType = function(sideA ,sideB, sideC) {
   if (sideA===sideB===sideC);
-  return "Equilateral triangle"
-}
+  return "Equilateral triangle";
+} else if (sideA===sideB) {
+  return "Isosceles triangle";
+  alert "Isosceles triangle";
+}  else if (sideA===sideC) {
+  return "Isosceles triangle";
+  alert "Isosceles triangle";
+}  else if (sideB===sideC) {
+   return "Isosceles triangle";
+   alert "Isosceles triangle";
