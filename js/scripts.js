@@ -7,5 +7,6 @@ var triangle = function(sideA, sideB, sideC) {
 };
 
 var triangleType = function(sideA ,sideB, sideC) {
-  if (sideA===sideB===sideC)
+  if (sideA===sideB===sideC);
+  return "Equilateral triangle"
 }
