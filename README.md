@@ -1,22 +1,19 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {TRIANGLE TRACKER}
+#### {This application enables the user to check whether three numerical values can form a triangle or not. If it forms a triangle, it is able to determine whether the traingle formed is equilateral, isosceles or scalene in nature },
+
+{The latest version was released on 18th February 2018}
+
+#### By **{Stacy Buluma-Moringa School}**
+
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{The application recieves input from the user and manipulayes it through a series of functions to determine whether it is a triangle or not in the first place before it does anything else. After this, if the values input by the user are able to form a triangle, then the application goe sahead to check the triangle type: that is equilateral, isosceles and scalene triangles.}
+## Purpose
+{Purpose of this application is to easen the user's work of determining whether three given numerical values can be used to form a triangle and if so which type of triangle.}
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{This application has been developed using HTML, CSS and JAVASCRIPT languages.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{Anybody who is able to aid in the betterment of this application to make user experience more fulfilling is free to add a comment to the application via github in this url:github.com/stacy6bul/triangle-tracker}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
-  
+*{Licenced under an MIT license}*
+Copyright (c) {2019} **{Acknowledgement: Moringa School}**
+
